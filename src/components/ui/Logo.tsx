@@ -9,7 +9,7 @@ export default function Logo({ size = 40 }: { size?: number }) {
       aria-label="Přejít na úvodní stránku"
     >
       <Image
-        src="/brand/logo-stolni tenis.png"
+        src="/brand/logo-stolnitenis.png"
         alt="Aplikace pro stolní tenis"
         width={size}
         height={size}

@@ -25,7 +25,7 @@ export default function HomePage() {
       {/* Velké klubové logo uprostřed s pop-in animací */}
       <div className="flex justify-center py-10">
         <Image
-          src="/brand/logo-hcrytiri.png"
+          src="/brand/logo-stolnitenis.png"
           alt="HC Rytíři Vlašim – logo"
           width={420}
           height={420}
