@@ -6,8 +6,8 @@ export const metadata = {
   description: "Rychlé vyhledávání tréninkových prvků podle ročníku a kategorie.",
   icons: {
     icon: "/brand/logo-stolnitenis.png",
-    shortcut: "/brand/logostolnitenis.png",
-    apple: "/brand/logostolnitenis.png",
+    shortcut: "/brand/logo-stolnitenis.png",
+    apple: "/brand/logo-stolnitenis.png",
   },
   themeColor: "#1856a5", // brand-700
 };
