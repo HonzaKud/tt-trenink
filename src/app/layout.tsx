@@ -5,9 +5,9 @@ export const metadata = {
   title: "Trenérská metodika – HC Rytíři Vlašim",
   description: "Rychlé vyhledávání tréninkových prvků podle ročníku a kategorie.",
   icons: {
-    icon: "/brand/logo-hcrytiri.png",
-    shortcut: "/brand/logo-hcrytiri.png",
-    apple: "/brand/logo-hcrytiri.png",
+    icon: "/brand/logo-stolnitenis.png",
+    shortcut: "/brand/logostolnitenis.png",
+    apple: "/brand/logostolnitenis.png",
   },
   themeColor: "#1856a5", // brand-700
 };
